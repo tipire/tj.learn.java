@@ -16,5 +16,8 @@ public class TestIO {
 		System.out.println(URLDecoder.decode(url,"utf-8"));
 		String url2 = "\u61c2\u5f97\u592a\u591a\uff0c\u770b\u5f97\u592a\u900f\uff0c\u6700\u5b64\u72ec";
 		System.out.println(URLDecoder.decode(url2,"utf-8"));
+		
+		
+		System.out.println("update");
 	}
 }
